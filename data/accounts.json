@@ -1,18 +1,10 @@
 [
   {
-    "id": "user-NH9krElZ0iAFjNTjPAOFg",
-    "username": "ryoaditarta@gmail.com",
-    "password": "RSu7hdkj",
-    "type": "team",
-    "name": "I Gusti Ngurah Ryo Adi Tarta",
-    "team_id": "I Gusti Ngurah Ryo Adi Tarta"
-  },
-  {
-    "id": "user-7hEu8-Sw5zHeZyO4qlhvb",
+    "id": "user-SwKrb5Nr91TE5NMXBrcIP",
     "username": "devanferrel@gmail.com",
-    "password": "2bkxmb3f",
+    "password": "IjG5tMEL",
     "type": "team",
-    "name": "Devan Ferrel",
-    "team_id": "Devan Ferrel"
+    "name": "Example",
+    "team_id": "Example"
   }
 ]
